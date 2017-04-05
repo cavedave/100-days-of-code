@@ -29,7 +29,7 @@
 
 **Link(s) to work**
 
-### Day 4: April 3, 2017
+### Day 4: April 4, 2017
 
 
 **Today's Progress**: ejs tutorial
