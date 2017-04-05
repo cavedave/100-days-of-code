@@ -20,3 +20,11 @@
 
 **Link(s) to work**
 
+### Day 3: April 3, 2017
+
+
+**Today's Progress**: Made two http client and collect in learnyounode.
+
+**Thoughts** need to redo collect version using modules
+
+**Link(s) to work**
