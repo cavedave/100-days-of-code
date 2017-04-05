@@ -28,3 +28,13 @@
 **Thoughts** need to redo collect version using modules
 
 **Link(s) to work**
+
+### Day 4: April 3, 2017
+
+
+**Today's Progress**: ejs tutorial
+
+**Thoughts** need to redo collect version using modules
+
+**Link(s) to work**https://scotch.io/tutorials/use-ejs-to-template-your-node-application
+
